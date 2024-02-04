@@ -26,3 +26,10 @@ a{
 #par1{
     text-align: center;
 }
+#skillset2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 350px;
+}
