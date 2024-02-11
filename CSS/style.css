@@ -33,3 +33,43 @@ a{
     height: auto;
     width: 350px;
 }
+#D1{
+    width: 250px;
+    height: 250px;
+    margin-left: 400px;
+    margin-top: 50px;
+    display: inline;
+    border: 2px solid burlywood;
+    box-sizing: border-box;
+}
+#T1{
+    margin-left: 445px;
+}
+#D2{
+    width: 320px;
+    height: 280px;
+    margin-left: 802px;
+    margin-top: -360px;
+    display: inline;
+    border: 2px solid burlywood;
+    box-sizing: border-box;
+    margin-bottom: 950px;
+}
+#T2{
+    margin-left: 830px;
+    margin-top: -935px;
+}
+#D3{
+    width: 250px;
+    height: 250px;
+    margin-left: 1300px;
+    margin-top: -330px;
+    display: inline;
+    border: 2px solid burlywood;
+    box-sizing: border-box;
+    margin-bottom: 900px;
+}
+#T3{
+    margin-left: 1340px;
+    margin-top: -885px;
+}
