@@ -7,14 +7,6 @@ h1{
 body{
     background-color: rgb(118, 212, 229);
 }
-li{
-    margin-left: 50px;
-}
-a{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-decoration: none;
-    color: blueviolet;
-}
 #skill{
     background-color:  rgb(118, 212, 229);
 }
@@ -34,8 +26,8 @@ a{
     width: 350px;
 }
 #D1{
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     margin-left: 400px;
     margin-top: 50px;
     display: inline;
@@ -46,8 +38,8 @@ a{
     margin-left: 445px;
 }
 #D2{
-    width: 320px;
-    height: 280px;
+    width: 220px;
+    height: 180px;
     margin-left: 802px;
     margin-top: -360px;
     display: inline;
@@ -60,8 +52,8 @@ a{
     margin-top: -935px;
 }
 #D3{
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     margin-left: 1300px;
     margin-top: -330px;
     display: inline;
