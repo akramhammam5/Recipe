@@ -7,10 +7,15 @@ h1{
 body{
     background-color: rgb(118, 212, 229);
 }
+#skillset{
+    margin-left: 840px;
+}
 #skill{
     background-color:  rgb(118, 212, 229);
 }
-
+#skillset2{
+    margin-left: 550px;
+}
 #par1{
     text-align: center;
 }
