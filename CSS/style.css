@@ -10,24 +10,13 @@ body{
 #skill{
     background-color:  rgb(118, 212, 229);
 }
-#skillset{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
+
 #par1{
     text-align: center;
 }
-#skillset2{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: auto;
-    width: 350px;
-}
 #D1{
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
     margin-left: 400px;
     margin-top: 50px;
     display: inline;
@@ -38,8 +27,8 @@ body{
     margin-left: 445px;
 }
 #D2{
-    width: 220px;
-    height: 180px;
+    width: 320px;
+    height: 280px;
     margin-left: 802px;
     margin-top: -360px;
     display: inline;
@@ -52,8 +41,8 @@ body{
     margin-top: -935px;
 }
 #D3{
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
     margin-left: 1300px;
     margin-top: -330px;
     display: inline;
